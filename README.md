@@ -8,6 +8,6 @@ The code adds features to a digital wallet company called PayMo. The features in
 
 The code is implemented in Python and resides in PaymoDigitalFraud/src folder together with the corresponding unit test file. To run the code simply call the run.sh script using the following command:
 
-PaymoDigitalFraud$./run.sh
+PaymoDigitalFraud$ ./run.sh
 
 The code uses paymo_input/batch_payment.txt file to build the initial state of the graph. The outputs of the code file will reside in the paymo_output folder. Each output file corresponds to testing the relevant feature against paymo_input/stream_payment.txt file.      
