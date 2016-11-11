@@ -1,0 +1,4 @@
+time, id1, id2, amount, message
+2016-11-02 09:38:54, 6989, 49466, 3.74, A (b->a)(pass)
+
+
